@@ -3,21 +3,17 @@ body {
   }
   
   .card-container{
-    width: 320px;
-    height: 446px;
+    width: 734px;
+    height: 1024;
     position:relative;
     overflow:hidden;
-    border-radius: 15px;
+    border-radius: 38px;
     margin: 0 auto;
   }
   
   .container {
     perspective: 300;
     -webkit-perspective: 300;
-  }
-  
-  .card-image{
-    width: 320px;
   }
   
   .dots{
